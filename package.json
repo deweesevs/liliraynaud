@@ -23,6 +23,8 @@
     "pug": "^3.0.3",
     "ejs": "^3.1.10",
     "minimatch": "3.1.4",
+    "js-yaml": "3.14.2",
+    "liquidjs": "^10.25.0",
     "filelist": {
       "minimatch": "5.1.8"
     }
